@@ -1,0 +1,756 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2302px" height="3014px" version="1.1">
+  <defs/>
+  <g transform="translate(0.5,0.5)">
+    <path d="M 1466 1350 L 2199 893" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+    <path d="M 2203 890 L 2199 897 L 2199 893 L 2196 891 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1353 335 L 2199 828" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+    <path d="M 2203 831 L 2195 830 L 2199 828 L 2199 824 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 903 1880 L 931 1929" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 934 1934 L 927 1929 L 931 1929 L 933 1926 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse cx="1312" cy="35" rx="49.5" ry="30" fill="#ccccff" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1312" y="39">IDLE</text>
+    </g>
+    <rect x="1254" y="295" width="130" height="40" rx="2" ry="2" fill="#ccffcc" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1319" y="319">TOUCH</text>
+    </g>
+    <path d="M 1288 110 C 1291 106 1295 105 1299 105 L 1333 105 C 1337 105 1341 106 1344 110 L 1364 133 C 1365 134 1365 135 1364 137 L 1344 160 C 1341 163 1337 165 1333 165 L 1299 165 C 1295 165 1291 163 1288 160 L 1268 137 C 1268 135 1268 134 1268 133 L 1288 110 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1316" y="132">first</text>
+      <text x="1316" y="146">finger down</text>
+    </g>
+    <path d="M 1313 65 L 1315 98" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1315 103 L 1311 97 L 1315 98 L 1318 96 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1018 410 C 1021 406 1025 405 1029 405 L 1063 405 C 1067 405 1071 406 1074 410 L 1094 433 C 1095 434 1095 435 1094 437 L 1074 460 C 1071 463 1067 465 1063 465 L 1029 465 C 1025 465 1021 463 1018 460 L 998 437 C 998 435 998 434 998 433 L 1018 410 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1046" y="439">finger up</text>
+    </g>
+    <path d="M 1274 335 L 1100 411" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1096 413 L 1101 407 L 1100 411 L 1103 413 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1016 725 C 1017 723 1017 722 1018 721 C 1019 720 1020 720 1021 720 L 1090 720 C 1091 720 1093 720 1094 721 C 1095 722 1095 723 1095 725 L 1076 774 C 1075 776 1074 777 1074 778 C 1073 779 1072 780 1071 779 L 1001 779 C 1000 779 999 779 998 778 C 997 777 997 776 997 774 Z" fill="#ff6666" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1046" y="747">button 1</text>
+      <text x="1046" y="761">press</text>
+    </g>
+    <path d="M 1566 410 C 1568 406 1572 405 1577 405 L 1610 405 C 1615 405 1619 406 1621 410 L 1641 433 C 1642 434 1642 435 1641 437 L 1621 460 C 1619 463 1615 465 1610 465 L 1577 465 C 1572 465 1568 463 1566 460 L 1546 437 C 1545 435 1545 434 1546 433 L 1566 410 Z" fill="#99ffff" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1593" y="439">timeout</text>
+    </g>
+    <path d="M 1365 335 L 1539 411" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1544 413 L 1536 413 L 1539 411 L 1539 407 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1385 410 C 1387 406 1391 405 1396 405 L 1429 405 C 1434 405 1438 406 1440 410 L 1460 433 C 1461 434 1461 435 1460 437 L 1440 460 C 1438 463 1434 465 1429 465 L 1396 465 C 1391 465 1387 463 1385 460 L 1365 437 C 1364 435 1364 434 1365 433 L 1385 410 Z" fill="#67ab9f" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1413" y="432">move &gt; </text>
+      <text x="1413" y="446">threshold</text>
+    </g>
+    <path d="M 1335 335 L 1385 400" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1388 404 L 1381 400 L 1385 400 L 1387 396 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1196 410 C 1198 406 1202 405 1207 405 L 1240 405 C 1245 405 1249 406 1251 410 L 1271 433 C 1272 434 1272 435 1271 437 L 1251 460 C 1249 463 1245 465 1240 465 L 1207 465 C 1202 465 1198 463 1196 460 L 1176 437 C 1175 435 1175 434 1176 433 L 1196 410 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1224" y="432">second</text>
+      <text x="1224" y="446">finger down</text>
+    </g>
+    <path d="M 1303 335 L 1251 400" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1248 404 L 1250 396 L 1251 400 L 1255 400 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <rect x="1399" y="850" width="130" height="40" rx="2" ry="2" fill="#ccffcc" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1464" y="874">TOUCH_2</text>
+    </g>
+    <path d="M 1309 985 C 1312 981 1316 980 1320 980 L 1354 980 C 1358 980 1362 981 1365 985 L 1385 1008 C 1386 1009 1386 1010 1385 1012 L 1365 1035 C 1362 1038 1358 1040 1354 1040 L 1320 1040 C 1316 1040 1312 1038 1309 1035 L 1289 1012 C 1289 1010 1289 1009 1289 1008 L 1309 985 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1337" y="1007">second</text>
+      <text x="1337" y="1021">finger up</text>
+    </g>
+    <path d="M 1446 890 L 1368 975" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1365 979 L 1367 971 L 1368 975 L 1372 976 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1157 645 C 1158 643 1158 642 1159 641 C 1160 640 1161 640 1162 640 L 1231 640 C 1232 640 1234 640 1235 641 C 1236 642 1236 643 1236 645 L 1217 694 C 1216 696 1215 697 1215 698 C 1214 699 1213 700 1212 699 L 1142 699 C 1141 699 1140 699 1139 698 C 1138 697 1138 696 1138 694 Z" fill="#ff6666" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1187" y="667">button 2</text>
+      <text x="1187" y="681">press</text>
+    </g>
+    <path d="M 1559 965 C 1561 961 1565 960 1570 960 L 1603 960 C 1608 960 1612 961 1614 965 L 1634 988 C 1635 989 1635 990 1634 992 L 1614 1015 C 1612 1018 1608 1020 1603 1020 L 1570 1020 C 1565 1020 1561 1018 1559 1015 L 1539 992 C 1538 990 1538 989 1539 988 L 1559 965 Z" fill="#67ab9f" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1586" y="987">move &gt; </text>
+      <text x="1586" y="1001">threshold</text>
+    </g>
+    <path d="M 1685 905 C 1687 901 1691 900 1696 900 L 1729 900 C 1734 900 1738 901 1740 905 L 1760 928 C 1761 929 1761 930 1760 932 L 1740 955 C 1738 958 1734 960 1729 960 L 1696 960 C 1691 960 1687 958 1685 955 L 1665 932 C 1664 930 1664 929 1665 928 L 1685 905 Z" fill="#99ffff" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1713" y="934">timeout</text>
+    </g>
+    <path d="M 1529 885 L 1658 916" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1663 918 L 1655 919 L 1658 916 L 1657 913 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1484 890 L 1551 955" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1555 959 L 1548 956 L 1551 955 L 1553 951 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1108 1145 C 1108 1143 1109 1142 1110 1141 C 1111 1140 1112 1140 1113 1140 L 1181 1140 C 1183 1140 1184 1140 1185 1141 C 1186 1142 1186 1143 1186 1145 L 1167 1194 C 1167 1196 1166 1197 1165 1198 C 1164 1199 1163 1200 1162 1199 L 1093 1199 C 1091 1199 1090 1199 1089 1198 C 1089 1197 1088 1196 1089 1194 Z" fill="#ff6666" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1138" y="1167">button 1</text>
+      <text x="1138" y="1181">release</text>
+    </g>
+    <path d="M 1167 550 C 1167 548 1168 547 1169 546 C 1170 545 1171 545 1172 545 L 1240 545 C 1242 545 1243 545 1244 546 C 1245 547 1245 548 1245 550 L 1226 599 C 1226 601 1225 602 1224 603 C 1223 604 1222 605 1221 604 L 1152 604 C 1150 604 1149 604 1148 603 C 1148 602 1147 601 1148 599 Z" fill="#ff6666" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1197" y="572">button 2</text>
+      <text x="1197" y="586">release</text>
+    </g>
+    <path d="M 1301 780 L 1223 704" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1219 700 L 1226 703 L 1223 704 L 1221 708 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1190 640 L 1193 611" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1193 606 L 1196 613 L 1193 611 L 1189 612 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <rect x="981" y="920" width="130" height="40" rx="2" ry="2" fill="#ccffcc" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1046" y="944">TAPPED</text>
+    </g>
+    <path d="M 1110 1045 C 1113 1041 1117 1040 1121 1040 L 1155 1040 C 1159 1040 1163 1041 1166 1045 L 1186 1068 C 1187 1069 1187 1070 1186 1072 L 1166 1095 C 1163 1098 1159 1100 1155 1100 L 1121 1100 C 1117 1100 1113 1098 1110 1095 L 1090 1072 C 1090 1070 1090 1069 1090 1068 L 1110 1045 Z" fill="#99ffff" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1138" y="1074">timeout</text>
+    </g>
+    <path d="M 1060 960 L 1113 1034" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1116 1039 L 1109 1035 L 1113 1034 L 1115 1031 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 955 1015 C 957 1011 961 1010 966 1010 L 999 1010 C 1004 1010 1008 1011 1010 1015 L 1030 1038 C 1031 1039 1031 1040 1030 1042 L 1010 1065 C 1008 1068 1004 1070 999 1070 L 966 1070 C 961 1070 957 1068 955 1065 L 935 1042 C 934 1040 934 1039 935 1038 L 955 1015 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="983" y="1037">first</text>
+      <text x="983" y="1051">finger down</text>
+    </g>
+    <path d="M 1033 960 L 1005 1004" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1002 1009 L 1003 1001 L 1005 1004 L 1009 1005 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <rect x="412" y="1490" width="130" height="40" rx="2" ry="2" fill="#ccffcc" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="477" y="1514">DRAGGING</text>
+    </g>
+    <path d="M 306 1620 C 309 1616 313 1615 317 1615 L 351 1615 C 355 1615 359 1616 362 1620 L 382 1643 C 383 1644 383 1645 382 1647 L 362 1670 C 359 1673 355 1675 351 1675 L 317 1675 C 313 1675 309 1673 306 1670 L 286 1647 C 286 1645 286 1644 286 1643 L 306 1620 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="334" y="1642">first</text>
+      <text x="334" y="1656">finger up</text>
+    </g>
+    <path d="M 485 1962 C 486 1960 486 1959 487 1958 C 488 1957 489 1957 490 1957 L 559 1957 C 560 1957 562 1957 563 1958 C 564 1959 564 1960 564 1962 L 545 2011 C 544 2013 543 2014 543 2015 C 542 2016 541 2017 540 2016 L 470 2016 C 469 2016 468 2016 467 2015 C 466 2014 466 2013 466 2011 Z" fill="#ff6666" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="515" y="1984">btn1</text>
+      <text x="515" y="1998">release</text>
+    </g>
+    <path d="M 456 1530 L 370 1610" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 367 1614 L 369 1606 L 370 1610 L 374 1612 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1046 780 L 1046 913" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1046 918 L 1043 911 L 1046 913 L 1050 911 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1138 1100 L 1138 1133" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1138 1138 L 1134 1131 L 1138 1133 L 1141 1131 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse cx="1923" cy="813" rx="49.5" ry="30" fill="#ccccff" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1923" y="817">IDLE</text>
+    </g>
+    <path d="M 1443 1001 C 1445 997 1449 996 1454 996 L 1487 996 C 1492 996 1496 997 1498 1001 L 1518 1024 C 1519 1025 1519 1026 1518 1028 L 1498 1051 C 1496 1054 1492 1056 1487 1056 L 1454 1056 C 1449 1056 1445 1054 1443 1051 L 1423 1028 C 1422 1026 1422 1025 1423 1024 L 1443 1001 Z" fill="#ffb570" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1471" y="1023">third</text>
+      <text x="1471" y="1037">finger down</text>
+    </g>
+    <path d="M 1465 890 L 1469 989" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1469 994 L 1465 988 L 1469 989 L 1472 987 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <rect x="1368" y="1350" width="130" height="40" rx="2" ry="2" fill="#ccffcc" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1433" y="1374">TOUCH_3</text>
+    </g>
+    <path d="M 1441 1252 L 1435 1343" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1435 1348 L 1432 1341 L 1435 1343 L 1439 1342 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1289 1856 C 1290 1854 1290 1853 1291 1852 C 1292 1851 1293 1851 1294 1851 L 1363 1851 C 1364 1851 1366 1851 1367 1852 C 1368 1853 1368 1854 1368 1856 L 1349 1905 C 1348 1907 1347 1908 1347 1909 C 1346 1910 1345 1911 1344 1910 L 1274 1910 C 1273 1910 1272 1910 1271 1909 C 1270 1908 1270 1907 1270 1905 Z" fill="#ff6666" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1319" y="1878">button 3</text>
+      <text x="1319" y="1892">press</text>
+    </g>
+    <path d="M 1289 1953 C 1290 1951 1290 1950 1291 1949 C 1292 1948 1293 1948 1294 1948 L 1363 1948 C 1364 1948 1366 1948 1367 1949 C 1368 1950 1368 1951 1368 1953 L 1349 2002 C 1348 2004 1347 2005 1347 2006 C 1346 2007 1345 2008 1344 2007 L 1274 2007 C 1273 2007 1272 2007 1271 2006 C 1270 2005 1270 2004 1270 2002 Z" fill="#ff6666" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1319" y="1975">button 3</text>
+      <text x="1319" y="1989">release</text>
+    </g>
+    <path d="M 1319 1911 L 1319 1941" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1319 1946 L 1316 1939 L 1319 1941 L 1323 1939 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1492 1540 C 1495 1536 1499 1535 1503 1535 L 1537 1535 C 1541 1535 1545 1536 1548 1540 L 1568 1563 C 1569 1564 1569 1565 1568 1567 L 1548 1590 C 1545 1593 1541 1595 1537 1595 L 1503 1595 C 1499 1595 1495 1593 1492 1590 L 1472 1567 C 1472 1565 1472 1564 1472 1563 L 1492 1540 Z" fill="#67ab9f" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1520" y="1562">move &gt; </text>
+      <text x="1520" y="1576">threshold</text>
+    </g>
+    <path d="M 1442 1390 L 1504 1529" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1506 1534 L 1500 1529 L 1504 1529 L 1507 1526 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse cx="667" cy="2002" rx="49.5" ry="30" fill="#ccccff" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="667" y="2006">IDLE</text>
+    </g>
+    <path d="M 1621 1530 C 1623 1526 1627 1525 1632 1525 L 1665 1525 C 1670 1525 1674 1526 1676 1530 L 1696 1553 C 1697 1554 1697 1555 1696 1557 L 1676 1580 C 1674 1583 1670 1585 1665 1585 L 1632 1585 C 1627 1585 1623 1583 1621 1580 L 1601 1557 C 1600 1555 1600 1554 1601 1553 L 1621 1530 Z" fill="#99ffff" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1649" y="1559">timeout</text>
+    </g>
+    <path d="M 1457 1390 L 1609 1520" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1613 1524 L 1605 1522 L 1609 1520 L 1610 1517 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1178 965 C 1180 961 1184 960 1189 960 L 1222 960 C 1227 960 1231 961 1233 965 L 1253 988 C 1254 989 1254 990 1253 992 L 1233 1015 C 1231 1018 1227 1020 1222 1020 L 1189 1020 C 1184 1020 1180 1018 1178 1015 L 1158 992 C 1157 990 1157 989 1158 988 L 1178 965 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1206" y="987">first</text>
+      <text x="1206" y="1001">finger up</text>
+    </g>
+    <path d="M 1421 890 L 1260 964" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1255 967 L 1260 960 L 1260 964 L 1263 967 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse cx="1138" cy="1310" rx="49.5" ry="30" fill="#ccccff" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1138" y="1314">IDLE</text>
+    </g>
+    <path d="M 1205 1535 C 1208 1531 1212 1530 1216 1530 L 1250 1530 C 1254 1530 1258 1531 1261 1535 L 1281 1558 C 1282 1559 1282 1560 1281 1562 L 1261 1585 C 1258 1588 1254 1590 1250 1590 L 1216 1590 C 1212 1590 1208 1588 1205 1585 L 1185 1562 C 1185 1560 1185 1559 1185 1558 L 1205 1535 Z" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1233" y="1557">fourth</text>
+      <text x="1233" y="1571">finger down</text>
+    </g>
+    <path d="M 1412 1390 L 1269 1525" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1265 1529 L 1268 1521 L 1269 1525 L 1273 1527 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1138 1200 L 1138 1273" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1138 1278 L 1134 1271 L 1138 1273 L 1141 1271 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <rect x="653" y="1170" width="209" height="40" rx="2" ry="2" fill="#ccffcc" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="757" y="1194">DRAGGING_OR_DOUBLETAP</text>
+    </g>
+    <path d="M 835 1147 L 799 1167" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 794 1169 L 799 1163 L 799 1167 L 802 1169 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 530 1255 C 532 1251 536 1250 541 1250 L 574 1250 C 579 1250 583 1251 585 1255 L 605 1278 C 606 1279 606 1280 605 1282 L 585 1305 C 583 1308 579 1310 574 1310 L 541 1310 C 536 1310 532 1308 530 1305 L 510 1282 C 509 1280 509 1279 510 1278 L 530 1255 Z" fill="#99ffff" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="558" y="1284">timeout</text>
+    </g>
+    <path d="M 713 1210 L 612 1255" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 607 1257 L 612 1251 L 612 1255 L 615 1258 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 843 1255 C 846 1251 850 1250 854 1250 L 888 1250 C 892 1250 896 1251 899 1255 L 919 1278 C 920 1279 920 1280 919 1282 L 899 1305 C 896 1308 892 1310 888 1310 L 854 1310 C 850 1310 846 1308 843 1305 L 823 1282 C 823 1280 823 1279 823 1278 L 843 1255 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="871" y="1277">first</text>
+      <text x="871" y="1291">finger up</text>
+    </g>
+    <path d="M 782 1210 L 828 1246" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 832 1249 L 824 1247 L 828 1246 L 829 1242 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 883 1475 C 884 1473 884 1472 885 1471 C 886 1470 887 1470 888 1470 L 957 1470 C 958 1470 960 1470 961 1471 C 962 1472 962 1473 962 1475 L 943 1524 C 942 1526 941 1527 941 1528 C 940 1529 939 1530 938 1529 L 868 1529 C 867 1529 866 1529 865 1528 C 864 1527 864 1526 864 1524 Z" fill="#ff6666" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="913" y="1497">button 1</text>
+      <text x="913" y="1511">release</text>
+    </g>
+    <path d="M 883 1555 C 884 1553 884 1552 885 1551 C 886 1550 887 1550 888 1550 L 957 1550 C 958 1550 960 1550 961 1551 C 962 1552 962 1553 962 1555 L 943 1604 C 942 1606 941 1607 941 1608 C 940 1609 939 1610 938 1609 L 868 1609 C 867 1609 866 1609 865 1608 C 864 1607 864 1606 864 1604 Z" fill="#ff6666" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="913" y="1577">button 1</text>
+      <text x="913" y="1591">press</text>
+    </g>
+    <path d="M 890 1645 C 890 1643 891 1642 892 1641 C 893 1640 894 1640 895 1640 L 963 1640 C 965 1640 966 1640 967 1641 C 968 1642 968 1643 968 1645 L 949 1694 C 949 1696 948 1697 947 1698 C 946 1699 945 1700 944 1699 L 875 1699 C 873 1699 872 1699 871 1698 C 871 1697 870 1696 871 1694 Z" fill="#ff6666" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="920" y="1667">btn1</text>
+      <text x="920" y="1681">release</text>
+    </g>
+    <path d="M 902 1423 L 912 1463" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 913 1468 L 908 1462 L 912 1463 L 915 1461 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 913 1530 L 913 1543" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 913 1548 L 910 1541 L 913 1543 L 917 1541 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 915 1610 L 917 1633" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 917 1638 L 913 1632 L 917 1633 L 920 1631 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 897 1700 L 693 1967" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 690 1971 L 691 1963 L 693 1967 L 697 1967 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 685 1255 C 687 1251 691 1250 696 1250 L 729 1250 C 734 1250 738 1251 740 1255 L 760 1278 C 761 1279 761 1280 760 1282 L 740 1305 C 738 1308 734 1310 729 1310 L 696 1310 C 691 1310 687 1308 685 1305 L 665 1282 C 664 1280 664 1279 665 1278 L 685 1255 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="712" y="1277">second</text>
+      <text x="712" y="1291">finger down</text>
+    </g>
+    <path d="M 747 1210 L 730 1244" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 728 1249 L 728 1241 L 730 1244 L 734 1244 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 355 1255 C 357 1251 361 1250 366 1250 L 399 1250 C 404 1250 408 1251 410 1255 L 430 1278 C 431 1279 431 1280 430 1282 L 410 1305 C 408 1308 404 1310 399 1310 L 366 1310 C 361 1310 357 1308 355 1305 L 335 1282 C 334 1280 334 1279 335 1278 L 355 1255 Z" fill="#67ab9f" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="383" y="1277">move &gt; </text>
+      <text x="383" y="1291">threshold</text>
+    </g>
+    <path d="M 674 1210 L 437 1266" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 432 1268 L 438 1263 L 437 1266 L 440 1269 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 489 1415 L 480 1483" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 480 1488 L 477 1481 L 480 1483 L 484 1482 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <rect x="1454" y="580" width="130" height="40" rx="2" ry="2" fill="#ccffcc" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1519" y="604">HOLD</text>
+    </g>
+    <path d="M 1677 708 C 1680 704 1684 703 1688 703 L 1722 703 C 1726 703 1730 704 1733 708 L 1753 731 C 1754 732 1754 733 1753 735 L 1733 758 C 1730 761 1726 763 1722 763 L 1688 763 C 1684 763 1680 761 1677 758 L 1657 735 C 1657 733 1657 732 1657 731 L 1677 708 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1705" y="730">first</text>
+      <text x="1705" y="744">finger up</text>
+    </g>
+    <path d="M 1547 620 L 1658 699" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1662 702 L 1654 701 L 1658 699 L 1658 695 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1846 810 L 1868 810" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1873 811 L 1866 814 L 1868 810 L 1866 807 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1462 675 C 1464 671 1468 670 1473 670 L 1506 670 C 1511 670 1515 671 1517 675 L 1537 698 C 1538 699 1538 700 1537 702 L 1517 725 C 1515 728 1511 730 1506 730 L 1473 730 C 1468 730 1464 728 1462 725 L 1442 702 C 1441 700 1441 699 1442 698 L 1462 675 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1490" y="697">second</text>
+      <text x="1490" y="711">finger down</text>
+    </g>
+    <path d="M 1513 620 L 1500 663" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1499 668 L 1497 661 L 1500 663 L 1504 663 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1469 820 L 1466 843" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1466 848 L 1463 841 L 1466 843 L 1470 842 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1385 672 L 1477 623" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1481 620 L 1477 627 L 1477 623 L 1473 620 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <rect x="1795" y="1120" width="130" height="40" rx="2" ry="2" fill="#ccffcc" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1860" y="1144">TOUCH_2_HOLD</text>
+    </g>
+    <path d="M 1975 1225 C 1978 1221 1982 1220 1986 1220 L 2020 1220 C 2024 1220 2028 1221 2031 1225 L 2051 1248 C 2051 1249 2051 1250 2051 1252 L 2031 1275 C 2028 1278 2024 1280 2020 1280 L 1986 1280 C 1982 1280 1978 1278 1975 1275 L 1955 1252 C 1954 1250 1954 1249 1955 1248 L 1975 1225 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="2003" y="1247">second</text>
+      <text x="2003" y="1261">finger up</text>
+    </g>
+    <path d="M 1886 1160 L 1959 1216" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1963 1219 L 1955 1217 L 1959 1216 L 1960 1212 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1670 1230 C 1673 1226 1677 1225 1681 1225 L 1715 1225 C 1719 1225 1723 1226 1726 1230 L 1746 1253 C 1747 1254 1747 1255 1746 1257 L 1726 1280 C 1723 1283 1719 1285 1715 1285 L 1681 1285 C 1677 1285 1673 1283 1670 1280 L 1650 1257 C 1650 1255 1650 1254 1650 1253 L 1670 1230 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1698" y="1252">first</text>
+      <text x="1698" y="1266">finger up</text>
+    </g>
+    <path d="M 1832 1160 L 1746 1221" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1741 1224 L 1745 1217 L 1746 1221 L 1749 1223 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1984 875 L 1984 610 Q 1984 600 1974 600 L 1590 600" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1585 600 L 1592 596 L 1590 600 L 1592 603 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1644 1085 L 1644 610 Q 1644 600 1634 600 L 1590 600" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1585 600 L 1592 596 L 1590 600 L 1592 603 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1816 1235 C 1819 1231 1823 1230 1827 1230 L 1861 1230 C 1865 1230 1869 1231 1872 1235 L 1892 1258 C 1892 1259 1892 1260 1892 1262 L 1872 1285 C 1869 1288 1865 1290 1861 1290 L 1827 1290 C 1823 1290 1819 1288 1816 1285 L 1796 1262 C 1795 1260 1795 1259 1796 1258 L 1816 1235 Z" fill="#ffb570" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1844" y="1257">third</text>
+      <text x="1844" y="1271">finger down</text>
+    </g>
+    <path d="M 1858 1160 L 1849 1223" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1848 1228 L 1846 1221 L 1849 1223 L 1852 1222 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1569 1355 L 1505 1362" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1500 1362 L 1506 1358 L 1505 1362 L 1507 1365 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1570 1987 L 2064 1987 Q 2074 1987 2074 1977 L 2074 1150 Q 2074 1140 2064 1140 L 1932 1140" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1926 1140 L 1933 1136 L 1932 1140 L 1933 1143 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <rect x="1534" y="2227" width="130" height="40" rx="2" ry="2" fill="#ccffcc" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1599" y="2251">TOUCH_3_HOLD</text>
+    </g>
+    <path d="M 1591 1826 L 1599 2220" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1599 2225 L 1595 2219 L 1599 2220 L 1602 2218 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1295 2365 C 1298 2361 1302 2360 1306 2360 L 1340 2360 C 1344 2360 1348 2361 1351 2365 L 1371 2388 C 1372 2389 1372 2390 1371 2392 L 1351 2415 C 1348 2418 1344 2420 1340 2420 L 1306 2420 C 1302 2420 1298 2418 1295 2415 L 1275 2392 C 1275 2390 1275 2389 1275 2388 L 1295 2365 Z" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1323" y="2387">fourth</text>
+      <text x="1323" y="2401">finger down</text>
+    </g>
+    <rect x="1054" y="2485" width="130" height="40" rx="2" ry="2" fill="#ccffcc" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1119" y="2509">DEAD</text>
+    </g>
+    <path d="M 1560 2267 L 1377 2362" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1372 2364 L 1377 2358 L 1377 2362 L 1380 2364 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1275 2417 L 1160 2481" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1155 2484 L 1160 2478 L 1160 2481 L 1163 2484 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1229 1590 L 1122 2478" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1122 2483 L 1119 2476 L 1122 2478 L 1126 2477 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1035 2580 C 1038 2576 1042 2575 1046 2575 L 1080 2575 C 1084 2575 1088 2576 1091 2580 L 1111 2603 C 1112 2604 1112 2605 1111 2607 L 1091 2630 C 1088 2633 1084 2635 1080 2635 L 1046 2635 C 1042 2635 1038 2633 1035 2630 L 1015 2607 C 1015 2605 1015 2604 1015 2603 L 1035 2580 Z" fill="#e1d5e7" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1063" y="2609">any finger up</text>
+    </g>
+    <path d="M 1178 2609 C 1180 2605 1184 2604 1189 2604 L 1222 2604 C 1227 2604 1231 2605 1233 2609 L 1253 2632 C 1254 2633 1254 2634 1253 2636 L 1233 2659 C 1231 2662 1227 2664 1222 2664 L 1189 2664 C 1184 2664 1180 2662 1178 2659 L 1158 2636 C 1157 2634 1157 2633 1158 2632 L 1178 2609 Z" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1206" y="2631">fourth</text>
+      <text x="1206" y="2645">finger up</text>
+    </g>
+    <path d="M 1358 1540 C 1360 1536 1364 1535 1369 1535 L 1402 1535 C 1407 1535 1411 1536 1413 1540 L 1433 1563 C 1434 1564 1434 1565 1433 1567 L 1413 1590 C 1411 1593 1407 1595 1402 1595 L 1369 1595 C 1364 1595 1360 1593 1358 1590 L 1338 1567 C 1337 1565 1337 1564 1338 1563 L 1358 1540 Z" fill="#e1d5e7" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1386" y="1569">any finger up</text>
+    </g>
+    <path d="M 1429 1390 L 1394 1528" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1393 1533 L 1391 1526 L 1394 1528 L 1398 1528 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1367 1753 L 1332 1845" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1331 1850 L 1330 1842 L 1332 1845 L 1336 1844 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="11px">
+      <rect fill="#ffffff" stroke="none" x="1339" y="1789" width="20" height="27" stroke-width="0"/>
+      <text x="1349" y="1812">yes</text>
+    </g>
+    <path d="M 1591 2335 C 1594 2331 1598 2330 1602 2330 L 1636 2330 C 1640 2330 1644 2331 1647 2335 L 1667 2358 C 1668 2359 1668 2360 1667 2362 L 1647 2385 C 1644 2388 1640 2390 1636 2390 L 1602 2390 C 1598 2390 1594 2388 1591 2385 L 1571 2362 C 1571 2360 1571 2359 1571 2358 L 1591 2335 Z" fill="#e1d5e7" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1619" y="2364">any finger up</text>
+    </g>
+    <path d="M 1603 2267 L 1613 2323" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1613 2328 L 1609 2322 L 1613 2323 L 1616 2321 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1958 2355 L 2064 2355 Q 2074 2355 2074 2345 L 2074 1150 Q 2074 1140 2064 1140 L 1932 1140" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1926 1140 L 1933 1136 L 1932 1140 L 1933 1143 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1108 2525 L 1083 2569" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1080 2574 L 1081 2566 L 1083 2569 L 1087 2569 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1132 2525 L 1182 2598" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1185 2603 L 1178 2599 L 1182 2598 L 1184 2595 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse cx="1126" cy="2985" rx="49.5" ry="30" fill="#ccccff" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1126" y="2989">IDLE</text>
+    </g>
+    <path d="M 1121 2825 L 1173 2870 L 1121 2915 L 1070 2870 Z" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1121" y="2867">if finger</text>
+      <text x="1121" y="2881">count == 0</text>
+    </g>
+    <path d="M 1079 2728 L 1106 2818" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1108 2824 L 1102 2818 L 1106 2818 L 1109 2816 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1195 2664 L 1140 2819" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1138 2824 L 1137 2816 L 1140 2819 L 1143 2818 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1123 2915 L 1125 2948" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1125 2953 L 1121 2947 L 1125 2948 L 1128 2946 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 659 1648 C 661 1644 665 1643 670 1643 L 703 1643 C 708 1643 712 1644 714 1648 L 734 1671 C 735 1672 735 1673 734 1675 L 714 1698 C 712 1701 708 1703 703 1703 L 670 1703 C 665 1703 661 1701 659 1698 L 639 1675 C 638 1673 638 1672 639 1671 L 659 1648 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="686" y="1670">second</text>
+      <text x="686" y="1684">finger up</text>
+    </g>
+    <rect x="599" y="1490" width="130" height="40" rx="2" ry="2" fill="#ccffcc" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="664" y="1514">DRAGGING_2</text>
+    </g>
+    <path d="M 678 1435 L 669 1483" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 668 1488 L 666 1481 L 669 1483 L 673 1482 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 667 1530 L 681 1636" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 682 1641 L 678 1635 L 681 1636 L 685 1634 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 486 1712 C 488 1708 492 1707 497 1707 L 530 1707 C 535 1707 539 1708 541 1712 L 561 1735 C 562 1736 562 1737 561 1739 L 541 1762 C 539 1765 535 1767 530 1767 L 497 1767 C 492 1767 488 1765 486 1762 L 466 1739 C 465 1737 465 1736 466 1735 L 486 1712 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="514" y="1734">first</text>
+      <text x="514" y="1748">finger up</text>
+    </g>
+    <path d="M 651 1530 L 537 1701" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 534 1706 L 535 1698 L 537 1701 L 541 1702 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 494 1612 L 481 1536" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 481 1531 L 485 1537 L 481 1536 L 478 1538 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 640 1728 L 496 1535" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 493 1530 L 500 1534 L 496 1535 L 494 1538 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 373 1742 C 375 1738 379 1737 384 1737 L 417 1737 C 422 1737 426 1738 428 1742 L 448 1765 C 449 1766 449 1767 448 1769 L 428 1792 C 426 1795 422 1797 417 1797 L 384 1797 C 379 1797 375 1795 373 1792 L 353 1769 C 352 1767 352 1766 353 1765 L 373 1742 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="401" y="1764">second</text>
+      <text x="401" y="1778">finger down</text>
+    </g>
+    <path d="M 471 1530 L 411 1730" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 410 1735 L 408 1728 L 411 1730 L 415 1730 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 561 1817 L 655 1536" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 657 1531 L 658 1538 L 655 1536 L 651 1536 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 564 1991 L 611 1996" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 616 1997 L 609 1999 L 611 1996 L 609 1992 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 750 1620 C 752 1616 756 1615 761 1615 L 794 1615 C 799 1615 803 1616 805 1620 L 825 1643 C 826 1644 826 1645 825 1647 L 805 1670 C 803 1673 799 1675 794 1675 L 761 1675 C 756 1675 752 1673 750 1670 L 730 1647 C 729 1645 729 1644 730 1643 L 750 1620 Z" fill="#ffb570" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="777" y="1642">third</text>
+      <text x="777" y="1656">finger down</text>
+    </g>
+    <path d="M 681 1530 L 748 1610" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 752 1614 L 744 1611 L 748 1610 L 750 1606 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 922 1940 C 922 1938 923 1937 924 1936 C 925 1935 926 1935 927 1935 L 995 1935 C 997 1935 998 1935 999 1936 C 1000 1937 1000 1938 1000 1940 L 981 1989 C 981 1991 980 1992 979 1993 C 978 1994 977 1995 976 1994 L 907 1994 C 905 1994 904 1994 903 1993 C 903 1992 902 1991 903 1989 Z" fill="#ff6666" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="952" y="1962">btn1</text>
+      <text x="952" y="1976">release</text>
+    </g>
+    <path d="M 961 1995 L 1111 2478" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1112 2484 L 1107 2478 L 1111 2478 L 1114 2476 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 2225 835 C 2227 831 2231 830 2236 830 L 2269 830 C 2274 830 2278 831 2280 835 L 2300 858 C 2301 859 2301 860 2300 862 L 2280 885 C 2278 888 2274 890 2269 890 L 2236 890 C 2231 890 2227 888 2225 885 L 2205 862 C 2204 860 2204 859 2205 858 L 2225 835 Z" fill="#000000" stroke="#ffffff" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#FFFFFF" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="2252" y="850">clickpad</text>
+      <text x="2252" y="864">button</text>
+      <text x="2252" y="878">press</text>
+    </g>
+    <path d="M 1575 620 L 2198 840" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+    <path d="M 2203 842 L 2195 843 L 2198 840 L 2198 836 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1529 869 L 2198 860" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+    <path d="M 2203 860 L 2196 864 L 2198 860 L 2196 857 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1888 1120 L 2205 893" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+    <path d="M 2210 890 L 2206 897 L 2205 893 L 2202 891 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1608 2227 L 2236 895" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+    <path d="M 2238 891 L 2238 898 L 2236 895 L 2232 895 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 2252 2013 L 2252 2495 Q 2252 2505 2242 2505 L 1190 2505" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1185 2505 L 1192 2501 L 1190 2505 L 1192 2508 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1346 65 L 2214 825" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+    <path d="M 2217 829 L 2210 827 L 2214 825 L 2215 822 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 25 1205 C 27 1201 31 1200 36 1200 L 69 1200 C 74 1200 78 1201 80 1205 L 100 1228 C 101 1229 101 1230 100 1232 L 80 1255 C 78 1258 74 1260 69 1260 L 36 1260 C 31 1260 27 1258 25 1255 L 5 1232 C 4 1230 4 1229 5 1228 L 25 1205 Z" fill="#000000" stroke="#ffffff" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#FFFFFF" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="53" y="1220">clickpad</text>
+      <text x="53" y="1234">button</text>
+      <text x="53" y="1248">press</text>
+    </g>
+    <path d="M 981 959 L 107 1214" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+    <path d="M 102 1215 L 108 1210 L 107 1214 L 110 1216 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 43 2030 C 44 2028 44 2027 45 2026 C 46 2025 47 2025 48 2025 L 117 2025 C 118 2025 120 2025 121 2026 C 122 2027 122 2028 122 2030 L 103 2079 C 102 2081 101 2082 101 2083 C 100 2084 99 2085 98 2084 L 28 2084 C 27 2084 26 2084 25 2083 C 24 2082 24 2081 24 2079 Z" fill="#ff6666" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="73" y="2052">button 1</text>
+      <text x="73" y="2066">release</text>
+    </g>
+    <path d="M 53 1260 L 72 2018" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 72 2023 L 69 2017 L 72 2018 L 76 2016 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 653 2283 L 1071 2482" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1076 2484 L 1068 2484 L 1071 2482 L 1071 2478 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 653 1196 L 107 1226" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+    <path d="M 102 1227 L 109 1223 L 107 1226 L 109 1230 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 447 1490 L 103 1263" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+    <path d="M 99 1260 L 107 1261 L 103 1263 L 103 1267 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 620 1490 L 107 1254" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+    <path d="M 102 1252 L 110 1252 L 107 1254 L 107 1258 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <rect x="226" y="1842" width="130" height="40" rx="2" ry="2" fill="#ccffcc" stroke="#000000" stroke-width="2" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="291" y="1866">DRAGGING_WAIT</text>
+    </g>
+    <path d="M 357 1947 C 360 1943 364 1942 368 1942 L 402 1942 C 406 1942 410 1943 413 1947 L 433 1970 C 434 1971 434 1972 433 1974 L 413 1997 C 410 2000 406 2002 402 2002 L 368 2002 C 364 2002 360 2000 357 1997 L 337 1974 C 337 1972 337 1971 337 1970 L 357 1947 Z" fill="#99ffff" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="385" y="1976">timeout</text>
+    </g>
+    <path d="M 280 1787 L 289 1835" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 290 1840 L 286 1834 L 289 1835 L 292 1833 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 308 1882 L 355 1937" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 358 1941 L 351 1938 L 355 1937 L 357 1933 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 434 1977 L 460 1980" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 465 1981 L 458 1983 L 460 1980 L 458 1977 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 178 1947 C 180 1943 184 1942 189 1942 L 222 1942 C 227 1942 231 1943 233 1947 L 253 1970 C 254 1971 254 1972 253 1974 L 233 1997 C 231 2000 227 2002 222 2002 L 189 2002 C 184 2002 180 2000 178 1997 L 158 1974 C 157 1972 157 1971 158 1970 L 178 1947 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="206" y="1969">first</text>
+      <text x="206" y="1983">finger down</text>
+    </g>
+    <path d="M 275 1882 L 233 1937" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 229 1941 L 231 1933 L 233 1937 L 236 1937 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1265 204 C 1281 210 1298 210 1315 204 C 1331 198 1348 198 1365 204 L 1365 257 C 1348 251 1331 251 1315 257 C 1298 263 1281 263 1265 257 L 1265 204 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1315" y="235">TOUCH_TOUCH</text>
+    </g>
+    <path d="M 998 593 C 1014 599 1031 599 1048 593 C 1064 587 1081 587 1098 593 L 1098 646 C 1081 640 1064 640 1048 646 C 1031 652 1014 652 998 646 L 998 593 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1048" y="624">TOUCH_IDLE</text>
+    </g>
+    <path d="M 1046 465 L 1047 581" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1047 586 L 1044 579 L 1047 581 L 1051 579 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1047 652 L 1046 713" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1046 718 L 1043 711 L 1046 713 L 1050 711 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1316 165 L 1315 192" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1315 197 L 1312 190 L 1315 192 L 1319 190 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1316 263 L 1318 288" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1318 293 L 1314 287 L 1318 288 L 1321 286 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1462 504 C 1478 510 1495 510 1512 504 C 1528 498 1545 498 1562 504 L 1562 557 C 1545 551 1528 551 1512 557 C 1495 563 1478 563 1462 557 L 1462 504 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1512" y="535">TOUCH_DEAD</text>
+    </g>
+    <path d="M 1443 465 L 1473 494" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1477 497 L 1470 495 L 1473 494 L 1475 490 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1568 465 L 1543 493" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1540 497 L 1542 490 L 1543 493 L 1547 494 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1515 563 L 1516 573" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1517 578 L 1512 572 L 1516 573 L 1519 571 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1199 960 L 1188 914" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1187 909 L 1192 915 L 1188 914 L 1185 916 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1187 808 L 1187 706" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1187 701 L 1190 708 L 1187 706 L 1183 708 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="11px">
+      <rect fill="#ffffff" stroke="none" x="1177" y="748" width="20" height="14" stroke-width="0"/>
+      <text x="1187" y="757">yes</text>
+    </g>
+    <path d="M 1794 951 C 1810 957 1827 957 1844 951 C 1860 945 1877 945 1894 951 L 1894 1004 C 1877 998 1860 998 1844 1004 C 1827 1010 1810 1010 1794 1004 L 1794 951 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1844" y="982">TOUCH_DEAD</text>
+    </g>
+    <path d="M 1850 1075 L 1856 1113" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1857 1118 L 1853 1112 L 1856 1113 L 1859 1111 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1761 947 L 1788 957" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1792 959 L 1785 960 L 1788 957 L 1787 953 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1635 987 L 1787 980" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1792 980 L 1786 984 L 1787 980 L 1785 977 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1945 881 C 1961 887 1978 887 1995 881 C 2011 875 2028 875 2045 881 L 2045 934 C 2028 928 2011 928 1995 934 C 1978 940 1961 940 1945 934 L 1945 881 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1995" y="912">TOUCH_IDLE</text>
+    </g>
+    <path d="M 2002 1220 L 1995 946" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1995 941 L 1999 948 L 1995 946 L 1992 948 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1422 761 C 1438 767 1455 767 1472 761 C 1488 755 1505 755 1522 761 L 1522 814 C 1505 808 1488 808 1472 814 C 1455 820 1438 820 1422 814 L 1422 761 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1472" y="792">TOUCH_TOUCH</text>
+    </g>
+    <path d="M 1483 730 L 1479 749" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1478 754 L 1476 746 L 1479 749 L 1483 748 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1245 465 L 1445 750" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1448 754 L 1441 750 L 1445 750 L 1447 746 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1285 673 C 1301 679 1318 679 1335 673 C 1351 667 1368 667 1385 673 L 1385 726 C 1368 720 1351 720 1335 726 C 1318 732 1301 732 1285 726 L 1285 673 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1335" y="704">TOUCH_IDLE</text>
+    </g>
+    <path d="M 1230 605 L 1294 663" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1298 666 L 1290 664 L 1294 663 L 1295 659 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1285 786 C 1301 792 1318 792 1335 786 C 1351 780 1368 780 1385 786 L 1385 839 C 1368 833 1351 833 1335 839 C 1318 845 1301 845 1285 839 L 1285 786 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1335" y="817">TOUCH_IDLE</text>
+    </g>
+    <path d="M 1337 980 L 1335 851" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1335 846 L 1339 853 L 1335 851 L 1332 853 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1594 1091 C 1610 1097 1627 1097 1644 1091 C 1660 1085 1677 1085 1694 1091 L 1694 1144 C 1677 1138 1660 1138 1644 1144 C 1627 1150 1610 1150 1594 1144 L 1594 1091 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1644" y="1122">TOUCH_IDLE</text>
+    </g>
+    <path d="M 1686 1225 L 1659 1156" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1657 1151 L 1663 1156 L 1659 1156 L 1656 1159 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1569 1323 C 1585 1329 1602 1329 1619 1323 C 1635 1317 1652 1317 1669 1323 L 1669 1376 C 1652 1370 1635 1370 1619 1376 C 1602 1382 1585 1382 1569 1376 L 1569 1323 Z" fill="#ffb570" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1619" y="1354">TOUCH_TOUCH</text>
+    </g>
+    <path d="M 1795 1279 L 1674 1327" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1670 1329 L 1675 1323 L 1674 1327 L 1677 1330 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1858 2328 C 1874 2334 1891 2334 1908 2328 C 1924 2322 1941 2322 1958 2328 L 1958 2381 C 1941 2375 1924 2375 1908 2381 C 1891 2387 1874 2387 1858 2381 L 1858 2328 Z" fill="#e1d5e7" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1908" y="2352">that finger</text>
+      <text x="1908" y="2366">TOUCH_IDLE</text>
+    </g>
+    <path d="M 1668 2359 L 1851 2356" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1856 2355 L 1849 2359 L 1851 2356 L 1849 2352 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1541 1663 C 1557 1669 1574 1669 1591 1663 C 1607 1657 1624 1657 1641 1663 L 1641 1716 C 1624 1710 1607 1710 1591 1716 C 1574 1722 1557 1722 1541 1716 L 1541 1663 Z" fill="#ffb570" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1591" y="1694">TOUCH_DEAD</text>
+    </g>
+    <path d="M 1636 1585 L 1607 1651" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1605 1656 L 1604 1648 L 1607 1651 L 1611 1651 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1537 1595 L 1569 1652" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1572 1656 L 1565 1652 L 1569 1652 L 1571 1648 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1386 1595 L 1386 1646" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1386 1651 L 1382 1644 L 1386 1646 L 1389 1644 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1470 1960 C 1486 1966 1503 1966 1520 1960 C 1536 1954 1553 1954 1570 1960 L 1570 2013 C 1553 2007 1536 2007 1520 2013 C 1503 2019 1486 2019 1470 2013 L 1470 1960 Z" fill="#e1d5e7" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1520" y="1984">that finger</text>
+      <text x="1520" y="1998">TOUCH_IDLE</text>
+    </g>
+    <path d="M 1368 1980 L 1463 1984" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1468 1984 L 1461 1987 L 1463 1984 L 1462 1980 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1409 1753 L 1501 1948" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1504 1953 L 1498 1948 L 1501 1948 L 1504 1945 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="11px">
+      <rect fill="#ffffff" stroke="none" x="1450" y="1847" width="14" height="14" stroke-width="0"/>
+      <text x="1457" y="1857">no</text>
+    </g>
+    <path d="M 835 1093 C 851 1099 868 1099 885 1093 C 901 1087 918 1087 935 1093 L 935 1146 C 918 1140 901 1140 885 1146 C 868 1152 851 1152 835 1146 L 835 1093 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="885" y="1124">TOUCH_TOUCH</text>
+    </g>
+    <path d="M 946 1070 L 929 1083" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 925 1086 L 928 1079 L 929 1083 L 933 1085 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 845 1364 C 861 1370 879 1370 895 1364 C 911 1358 929 1358 945 1364 L 945 1416 C 929 1410 911 1410 895 1416 C 879 1423 861 1423 845 1416 L 845 1364 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="895" y="1394">TOUCH_IDLE</text>
+    </g>
+    <path d="M 880 1310 L 893 1351" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 895 1357 L 889 1351 L 893 1351 L 896 1349 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 635 1376 C 651 1382 668 1382 685 1376 C 701 1370 718 1370 735 1376 L 735 1429 C 718 1423 701 1423 685 1429 C 668 1435 651 1435 635 1429 L 635 1376 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="685" y="1407">TOUCH_TOUCH</text>
+    </g>
+    <path d="M 706 1310 L 693 1364" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 692 1369 L 690 1361 L 693 1364 L 697 1363 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 443 1356 C 459 1362 476 1362 493 1356 C 509 1350 526 1350 543 1356 L 543 1409 C 526 1403 509 1403 493 1409 C 476 1415 459 1415 443 1409 L 443 1356 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="493" y="1387">TOUCH_DEAD</text>
+    </g>
+    <path d="M 415 1310 L 453 1346" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 457 1349 L 449 1347 L 453 1346 L 454 1342 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 539 1310 L 516 1345" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 514 1349 L 514 1341 L 516 1345 L 520 1345 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 225 1728 C 241 1734 258 1734 275 1728 C 291 1722 308 1722 325 1728 L 325 1781 C 308 1775 291 1775 275 1781 C 258 1787 241 1787 225 1781 L 225 1728 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="275" y="1759">TOUCH_IDLE</text>
+    </g>
+    <path d="M 311 1675 L 278 1717" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 275 1721 L 277 1714 L 278 1717 L 282 1718 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 195 1491 C 211 1497 228 1497 245 1491 C 261 1485 278 1485 295 1491 L 295 1544 C 278 1538 261 1538 245 1544 C 228 1550 211 1550 195 1544 L 195 1491 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="245" y="1522">TOUCH_TOUCH</text>
+    </g>
+    <path d="M 157 1972 L 156 1972 Q 154 1972 154 1962 L 154 1528 Q 154 1518 164 1518 L 188 1518" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 193 1518 L 186 1521 L 188 1518 L 186 1514 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 295 1516 L 406 1512" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 411 1512 L 404 1516 L 406 1512 L 404 1509 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 501 1823 C 517 1829 534 1829 551 1823 C 567 1817 584 1817 601 1823 L 601 1876 C 584 1870 567 1870 551 1876 C 534 1882 517 1882 501 1876 L 501 1823 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="551" y="1854">TOUCH_TOUCH</text>
+    </g>
+    <path d="M 449 1793 L 495 1819" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 500 1821 L 492 1821 L 495 1819 L 495 1815 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 450 1618 C 466 1624 483 1624 500 1618 C 516 1612 533 1612 550 1618 L 550 1671 C 533 1665 516 1665 500 1671 C 483 1677 466 1677 450 1671 L 450 1618 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="500" y="1649">TOUCH_IDLE</text>
+    </g>
+    <path d="M 509 1707 L 505 1683" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 505 1678 L 509 1685 L 505 1683 L 502 1686 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 615 1734 C 631 1740 648 1740 665 1734 C 681 1728 698 1728 715 1734 L 715 1787 C 698 1781 681 1781 665 1787 C 648 1793 631 1793 615 1787 L 615 1734 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="665" y="1765">TOUCH_IDLE</text>
+    </g>
+    <path d="M 679 1703 L 674 1722" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 673 1727 L 671 1719 L 674 1722 L 678 1721 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 835 1821 C 851 1827 868 1827 885 1821 C 901 1815 918 1815 935 1821 L 935 1874 C 918 1868 901 1868 885 1874 C 868 1880 851 1880 835 1874 L 835 1821 Z" fill="#ffb570" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="885" y="1852">TOUCH_TOUCH</text>
+    </g>
+    <path d="M 793 1675 L 864 1809" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 867 1814 L 860 1810 L 864 1809 L 867 1806 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1746 781 C 1762 787 1779 787 1796 781 C 1812 775 1829 775 1846 781 L 1846 834 C 1829 828 1812 828 1796 834 C 1779 840 1762 840 1746 834 L 1746 781 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1796" y="812">TOUCH_IDLE</text>
+    </g>
+    <path d="M 1741 763 L 1751 771" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1755 774 L 1748 773 L 1751 771 L 1752 767 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1394 1193 C 1410 1199 1427 1199 1444 1193 C 1460 1187 1477 1187 1494 1193 L 1494 1246 C 1477 1240 1460 1240 1444 1246 C 1427 1252 1410 1252 1394 1246 L 1394 1193 Z" fill="#ffb570" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1444" y="1224">TOUCH_TOUCH</text>
+    </g>
+    <path d="M 1466 1056 L 1449 1181" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1448 1186 L 1446 1179 L 1449 1181 L 1453 1180 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1020 2669 C 1036 2675 1053 2675 1070 2669 C 1086 2663 1103 2663 1120 2669 L 1120 2722 C 1103 2716 1086 2716 1070 2722 C 1053 2728 1036 2728 1020 2722 L 1020 2669 Z" fill="#e1d5e7" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1070" y="2693">that finger</text>
+      <text x="1070" y="2707">TOUCH_IDLE</text>
+    </g>
+    <path d="M 1065 2635 L 1067 2657" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1067 2662 L 1063 2655 L 1067 2657 L 1070 2655 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 2202 1854 C 2218 1860 2236 1860 2252 1854 C 2268 1848 2286 1848 2302 1854 L 2302 1906 C 2286 1900 2268 1900 2252 1906 C 2236 1913 2218 1913 2202 1906 L 2202 1854 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="2252" y="1884">TOUCH_DEAD</text>
+    </g>
+    <path d="M 2254 890 L 2254 1485 Q 2254 1495 2254 1505 L 2254 1841" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 2254 1846 L 2251 1839 L 2254 1841 L 2258 1839 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 2202 1904 C 2218 1910 2235 1910 2252 1904 C 2268 1898 2285 1898 2302 1904 L 2302 1957 C 2285 1951 2268 1951 2252 1957 C 2235 1963 2218 1963 2202 1957 L 2202 1904 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="2252" y="1935">TOUCH_DEAD</text>
+    </g>
+    <path d="M 2202 1954 C 2218 1960 2235 1960 2252 1954 C 2268 1948 2285 1948 2302 1954 L 2302 2007 C 2285 2001 2268 2001 2252 2007 C 2235 2013 2218 2013 2202 2007 L 2202 1954 Z" fill="#ffb570" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="2252" y="1985">TOUCH_DEAD</text>
+    </g>
+    <path d="M 285 2135 C 301 2141 319 2141 335 2135 C 351 2129 369 2129 385 2135 L 385 2187 C 369 2181 351 2181 335 2187 C 319 2194 301 2194 285 2187 L 285 2135 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="335" y="2165">TOUCH_DEAD</text>
+    </g>
+    <path d="M 122 2074 L 279 2138" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 284 2140 L 276 2141 L 279 2138 L 279 2134 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 428 2188 C 444 2194 461 2194 478 2188 C 494 2182 511 2182 528 2188 L 528 2241 C 511 2235 494 2235 478 2241 C 461 2247 444 2247 428 2241 L 428 2188 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="478" y="2219">TOUCH_DEAD</text>
+    </g>
+    <path d="M 385 2180 L 422 2194" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 426 2195 L 419 2196 L 422 2194 L 421 2190 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 553 2233 C 569 2239 586 2239 603 2233 C 619 2227 636 2227 653 2233 L 653 2286 C 636 2280 619 2280 603 2286 C 586 2292 569 2292 553 2286 L 553 2233 Z" fill="#ffb570" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="603" y="2264">TOUCH_DEAD</text>
+    </g>
+    <path d="M 528 2233 L 547 2239" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 551 2241 L 544 2242 L 547 2239 L 546 2236 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1187 808 L 1250 858 L 1187 908 L 1123 858 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1187" y="855">state ==</text>
+      <text x="1187" y="869">TOUCH_TOUCH</text>
+    </g>
+    <path d="M 1386 1653 L 1449 1703 L 1386 1753 L 1322 1703 Z" fill="#e1d5e7" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1386" y="1700">that finger state ==</text>
+      <text x="1386" y="1714">TOUCH_TOUCH</text>
+    </g>
+    <path d="M 1233 808 L 1300 737" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1303 733 L 1301 740 L 1300 737 L 1296 736 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="11px">
+      <rect fill="#ffffff" stroke="none" x="1262" y="764" width="14" height="14" stroke-width="0"/>
+      <text x="1269" y="773">no</text>
+    </g>
+    <path d="M 1796 1016 C 1812 1022 1829 1022 1846 1016 C 1862 1010 1879 1010 1896 1016 L 1896 1069 C 1879 1063 1862 1063 1846 1069 C 1829 1075 1812 1075 1796 1069 L 1796 1016 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1846" y="1047">TOUCH_DEAD</text>
+    </g>
+    <path d="M 1845 1010 L 1845 1010" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1845 1010 L 1845 1010 L 1845 1010 L 1844 1010 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 1541 1715 C 1557 1721 1574 1721 1591 1715 C 1607 1709 1624 1709 1641 1715 L 1641 1768 C 1624 1762 1607 1762 1591 1768 C 1574 1774 1557 1774 1541 1768 L 1541 1715 Z" fill="#7ea6e0" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1591" y="1746">TOUCH_DEAD</text>
+    </g>
+    <path d="M 1541 1767 C 1557 1773 1574 1773 1591 1767 C 1607 1761 1624 1761 1641 1767 L 1641 1820 C 1624 1814 1607 1814 1591 1820 C 1574 1826 1557 1826 1541 1820 L 1541 1767 Z" fill="#ffd966" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+    <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+      <text x="1591" y="1798">TOUCH_DEAD</text>
+    </g>
+  </g>
+</svg>
