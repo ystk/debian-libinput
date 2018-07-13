@@ -1,0 +1,183 @@
+/**
+@page reporting_bugs Reporting bugs
+
+A new bug can be filed here:
+https://bugs.freedesktop.org/enter_bug.cgi?product=Wayland&component=libinput
+
+When reporting bugs against libinput, please follow the instructions below
+and provide the required data. This will speed up triage, resulting in a
+quicker bugfix.
+
+First, try to identify the bug by reproducing it reliably. The more
+specific a bug description is, the easier it is to fix. The @ref
+libinput-debug-events helper tool can help identify whether the bug is in
+libinput at all. This tool is a direct hook to libinput without a desktop
+stack in between and can thus help to identify whether a bug is in libinput
+or in one of the higher layers. See the @ref libinput-debug-events section
+for information on this tool.
+
+@section triage Triaging bugs
+
+Some specific information is required, providing it enables the developers
+to get a clear picture of what the issue with your device is.
+
+Always include the libinput version. Either the package version from your
+distribution or, when running from git: <tt>git log -n 1 HEAD</tt> or
+<tt>git describe HEAD</tt>. As a last resort: <tt>libinput-list-devices
+--version</tt>.
+
+Include the current libinput settings for the device (if you are on X11).
+The current settings can be obtained with <tt>xinput list-props "your device
+name"</tt>.  Use <tt>xinput list</tt> to obtain the device name.
+
+Third, pick which device are you reporting a bug for:
+
+- @ref reporting_bugs_touchpad
+- @ref reporting_bugs_mouse
+- @ref reporting_bugs_keyboard
+- @ref reporting_bugs_trackpoint
+- @ref reporting_bugs_other
+
+
+@section reporting_bugs_touchpad Reporting touchpad bugs
+
+When you file a bug, please attach the following information:
+
+- a virtual description of your input device, see @ref evemu. This is the
+  most important piece of information, do not forget it!
+- the output from udevadm info, see @ref udev_info.
+- the vendor model number of your laptop (e.g. "Lenovo Thinkpad T440s")
+- and the content of <tt>/sys/class/dmi/id/modalias</tt>.
+- the physical dimensions of your touchpad in mm
+
+If you are reporting a bug related to button event generation:
+
+- does your touchpad have (separate) physical hardware buttons or is the
+  whole touchpad clickable?
+- Are you using software buttons or clickfinger? See @ref
+  clickpad_softbuttons.
+
+@section reporting_bugs_mouse Reporting mouse bugs
+
+When you file a bug, please attach the following information:
+
+- a virtual description of your input device, see @ref evemu. This is the
+  most important piece of information, do not forget it!
+- the vendor model number of the device (e.g. "Logitech M325")
+- the output from udevadm info, see @ref udev_info.
+
+If the bug is related to the @ref motion_normalization_customization "speed of the mouse":
+
+- the resolution of the mouse as specified by the vendor (in DPI)
+- the output of the mouse-dpi-tool (provided by libevdev)
+
+@section reporting_bugs_keyboard Reporting keyboard bugs
+
+When you file a bug, please attach the following information:
+
+- a virtual description of your input device, see @ref evemu. This is the
+  most important piece of information, do not forget it!
+
+@section reporting_bugs_trackpoint Reporting trackpoint bugs
+
+When you file a bug, please attach the following information:
+
+- a virtual description of your input device, see @ref evemu. This is the
+  most important piece of information, do not forget it!
+- the vendor model number of the device (e.g. "Logitech M325")
+- the output from udevadm info, see @ref udev_info.
+
+@section reporting_bugs_other All other devices
+
+When you file a bug, please attach the following information:
+
+- a virtual description of your input device, see @ref evemu. This is the
+  most important piece of information, do not forget it!
+- the vendor model number of the device (e.g. "Sony Plastation3 controller")
+
+@section udev_info udev information for the device
+
+In many cases, we require the udev properties assigned to the device to
+verify whether device-specific quirks were applied. This can be obtained
+with ````udevadm info /sys/class/input/eventX```, with the correct event
+node for your device. An example output is below:
+
+@code
+$ udevadm info /sys/class/input/event4
+P: /devices/platform/i8042/serio1/input/input5/event4
+N: input/event4
+E: DEVNAME=/dev/input/event4
+E: DEVPATH=/devices/platform/i8042/serio1/input/input5/event4
+E: EVDEV_ABS_00=::41
+E: EVDEV_ABS_01=::37
+E: EVDEV_ABS_35=::41
+E: EVDEV_ABS_36=::37
+E: ID_INPUT=1
+E: ID_INPUT_HEIGHT_MM=66
+E: ID_INPUT_TOUCHPAD=1
+E: ID_INPUT_WIDTH_MM=97
+E: MAJOR=13
+E: MINOR=68
+E: SUBSYSTEM=input
+E: USEC_INITIALIZED=5463031
+@endcode
+
+@section evemu Recording devices with evemu
+
+<a href="http://www.freedesktop.org/wiki/Evemu/">evemu</a> records the
+device capabilities together with the event stream from the kernel. On our
+side, this allows us to recreate a virtual device identical to your device
+and re-play the event sequence, hopefully triggering the same bug.
+
+evemu-record takes a <tt>/dev/input/eventX</tt> event node, but without arguments
+it will simply show the list of devices and let you select:
+@code
+$ sudo evemu-record > scroll.evemu
+Available devices:
+/dev/input/event0:	Lid Switch
+/dev/input/event1:	Sleep Button
+/dev/input/event2:	Power Button
+/dev/input/event3:	AT Translated Set 2 keyboard
+/dev/input/event4:	SynPS/2 Synaptics TouchPad
+/dev/input/event5:	Video Bus
+/dev/input/event6:	ELAN Touchscreen
+/dev/input/event10:	ThinkPad Extra Buttons
+/dev/input/event11:	HDA Intel HDMI HDMI/DP,pcm=3
+/dev/input/event12:	HDA Intel HDMI HDMI/DP,pcm=7
+/dev/input/event13:	HDA Intel HDMI HDMI/DP,pcm=8
+/dev/input/event14:	HDA Intel PCH Dock Mic
+/dev/input/event15:	HDA Intel PCH Mic
+/dev/input/event16:	HDA Intel PCH Dock Headphone
+/dev/input/event17:	HDA Intel PCH Headphone
+/dev/input/event18:	Integrated Camera
+/dev/input/event19:	TPPS/2 IBM TrackPoint
+Select the device event number [0-19]:
+@endcode
+
+Select the device that triggers the issue, then reproduce the bug and Ctrl+C
+the process. The resulting recording, ("scroll.evemu" in this example) will
+contain the sequence required to reproduce the bug. If the bug fails to
+reproduce during recording, simply Ctrl+C and restart evemu-record.
+Always start the recording from a neutral state, i.e. without any buttons or
+keys down, with the position of the device in the neutral position, without
+touching the screen/touchpad.
+
+@note The longer the recording, the harder it is to identify the event
+sequence triggering the bug. Please keep the event sequence as short as possible.
+
+To verify that the recording contains the bug, you can replay it on your
+device. For example, to replay the sequence recorded in the example above:
+@code
+$ sudo evemu-play /dev/input/event4 < scroll.evemu
+@endcode
+
+If the bug is triggered by replaying on your device, attach the recording to
+the bug report.
+
+@note libinput does not affect the evemu recording. libinput and evemu talk
+directly to the kernel's device nodes. An evemu recording is not influenced
+by the libinput version or whether a libinput context is currently active.
+
+@dotfile evemu.gv
+
+*/
